@@ -1,4 +1,10 @@
-# kaggle-rossman
-nyc data science academy project based on kaggle competition
+# KaggleProject
+# KaggleProject
+Exciting Kaggle Project
 
-![not artificial intelligence](http://www.explainxkcd.com//wiki/images/b/b0/candy_button_paper.png)
+@jfdarre https://github.com/jfdarre
+@davidcomfort https://github.com/davidcomfort
+@pgrech2 https://github.com/pgrech2
+@aviyashchin https://github.com/aviyashchin
+
+![Our Strategy so far](https://imgs.xkcd.com/comics/efficiency.png)
